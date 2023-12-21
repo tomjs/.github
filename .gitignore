@@ -1,0 +1,20 @@
+# cache
+.cache
+.tmp
+.temp
+
+# macOS
+.DS_Store
+
+# package files
+*.7z
+*.gz
+*.gzip
+*.rar
+*.tar
+*.tar.*
+*.tgz
+*.zip
+
+# vscode
+.history
