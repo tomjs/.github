@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://umijs.org/">
-    <img width="100" src="https://avatars.githubusercontent.com/u/154481265?s=200&v=4">
-  </a>
+  <img width="100" src="https://avatars.githubusercontent.com/u/154481265?s=200&v=4">
 </p>
 
 <h3 align="center">TomJS</h1>
